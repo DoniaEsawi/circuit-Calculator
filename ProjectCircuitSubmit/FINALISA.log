@@ -1,0 +1,51 @@
+﻿  Source.cpp
+C:\Users\Mohamed\Desktop\FINALISA\FinalEditionISA\Source.cpp(23,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mohamed\Desktop\FINALISA\FinalEditionISA\Source.cpp(70,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mohamed\Desktop\FINALISA\FinalEditionISA\Source.cpp(94,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mohamed\Desktop\FINALISA\FinalEditionISA\Source.cpp(192,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mohamed\Desktop\FINALISA\FinalEditionISA\Source.cpp(203,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mohamed\Desktop\FINALISA\FinalEditionISA\Source.cpp(254,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mohamed\Desktop\FINALISA\FinalEditionISA\Source.cpp(254,58): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mohamed\Desktop\FINALISA\FinalEditionISA\Source.cpp(282,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mohamed\Desktop\FINALISA\FinalEditionISA\Source.cpp(282,76): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mohamed\Desktop\FINALISA\FinalEditionISA\Source.cpp(303,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mohamed\Desktop\FINALISA\FinalEditionISA\Source.cpp(308,73): warning C4244: 'argument': conversion from 'double' to 'const std::complex<float>::_Ty', possible loss of data
+C:\Users\Mohamed\Desktop\FINALISA\FinalEditionISA\Source.cpp(310,92): warning C4244: 'argument': conversion from 'double' to 'const std::complex<float>::_Ty', possible loss of data
+C:\Users\Mohamed\Desktop\FINALISA\FinalEditionISA\Source.cpp(316,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mohamed\Desktop\FINALISA\FinalEditionISA\Source.cpp(321,73): warning C4244: 'argument': conversion from 'double' to 'const std::complex<float>::_Ty', possible loss of data
+C:\Users\Mohamed\Desktop\FINALISA\FinalEditionISA\Source.cpp(323,92): warning C4244: 'argument': conversion from 'double' to 'const std::complex<float>::_Ty', possible loss of data
+C:\Users\Mohamed\Desktop\FINALISA\FinalEditionISA\Source.cpp(343,37): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mohamed\Desktop\FINALISA\FinalEditionISA\Source.cpp(348,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mohamed\Desktop\FINALISA\FinalEditionISA\Source.cpp(352,96): warning C4244: 'argument': conversion from 'double' to 'const std::complex<float>::_Ty', possible loss of data
+C:\Users\Mohamed\Desktop\FINALISA\FinalEditionISA\Source.cpp(353,96): warning C4244: 'argument': conversion from 'double' to 'const std::complex<float>::_Ty', possible loss of data
+C:\Users\Mohamed\Desktop\FINALISA\FinalEditionISA\Source.cpp(359,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mohamed\Desktop\FINALISA\FinalEditionISA\Source.cpp(363,97): warning C4244: 'argument': conversion from 'double' to 'const std::complex<float>::_Ty', possible loss of data
+C:\Users\Mohamed\Desktop\FINALISA\FinalEditionISA\Source.cpp(364,97): warning C4244: 'argument': conversion from 'double' to 'const std::complex<float>::_Ty', possible loss of data
+C:\Users\Mohamed\Desktop\FINALISA\FinalEditionISA\Source.cpp(374,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mohamed\Desktop\FINALISA\FinalEditionISA\Source.cpp(378,96): warning C4244: 'argument': conversion from 'double' to 'const std::complex<float>::_Ty', possible loss of data
+C:\Users\Mohamed\Desktop\FINALISA\FinalEditionISA\Source.cpp(379,96): warning C4244: 'argument': conversion from 'double' to 'const std::complex<float>::_Ty', possible loss of data
+C:\Users\Mohamed\Desktop\FINALISA\FinalEditionISA\Source.cpp(385,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mohamed\Desktop\FINALISA\FinalEditionISA\Source.cpp(390,98): warning C4244: 'argument': conversion from 'double' to 'const std::complex<float>::_Ty', possible loss of data
+C:\Users\Mohamed\Desktop\FINALISA\FinalEditionISA\Source.cpp(392,98): warning C4244: 'argument': conversion from 'double' to 'const std::complex<float>::_Ty', possible loss of data
+C:\Users\Mohamed\Desktop\FINALISA\FinalEditionISA\Source.cpp(423,11): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Mohamed\Desktop\FINALISA\FinalEditionISA\Source.cpp(423,43): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mohamed\Desktop\FINALISA\FinalEditionISA\Source.cpp(431,46): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Mohamed\Desktop\FINALISA\FinalEditionISA\Source.cpp(442,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mohamed\Desktop\FINALISA\FinalEditionISA\Source.cpp(447,50): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mohamed\Desktop\FINALISA\FinalEditionISA\Source.cpp(447,73): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mohamed\Desktop\FINALISA\FinalEditionISA\Source.cpp(482,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mohamed\Desktop\FINALISA\FinalEditionISA\Source.cpp(489,40): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mohamed\Desktop\FINALISA\FinalEditionISA\Source.cpp(496,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mohamed\Desktop\FINALISA\FinalEditionISA\Source.cpp(497,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mohamed\Desktop\FINALISA\FinalEditionISA\Source.cpp(501,49): warning C4244: 'argument': conversion from 'double' to 'const std::complex<float>::_Ty', possible loss of data
+C:\Users\Mohamed\Desktop\FINALISA\FinalEditionISA\Source.cpp(503,50): warning C4244: 'argument': conversion from 'double' to 'const std::complex<float>::_Ty', possible loss of data
+C:\Users\Mohamed\Desktop\FINALISA\FinalEditionISA\Source.cpp(507,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mohamed\Desktop\FINALISA\FinalEditionISA\Source.cpp(508,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mohamed\Desktop\FINALISA\FinalEditionISA\Source.cpp(512,46): warning C4244: 'argument': conversion from 'double' to 'const std::complex<float>::_Ty', possible loss of data
+C:\Users\Mohamed\Desktop\FINALISA\FinalEditionISA\Source.cpp(514,46): warning C4244: 'argument': conversion from 'double' to 'const std::complex<float>::_Ty', possible loss of data
+C:\Users\Mohamed\Desktop\FINALISA\FinalEditionISA\Source.cpp(524,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mohamed\Desktop\FINALISA\FinalEditionISA\Source.cpp(537,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mohamed\Desktop\FINALISA\FinalEditionISA\Source.cpp(551,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mohamed\Desktop\FINALISA\FinalEditionISA\Source.cpp(563,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mohamed\Desktop\FINALISA\FinalEditionISA\Source.cpp(575,20): warning C4018: '<': signed/unsigned mismatch
+  FINALISA.vcxproj -> C:\Users\Mohamed\Desktop\FINALISA\FINALISA\Debug\FINALISA.exe
